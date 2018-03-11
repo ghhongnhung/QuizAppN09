@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="number_of_guesses_list">
+
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+
+    </string-array>
+
+    <string-array name="type_of_animals">
+        <item>Động vật hoang dã</item>
+        <item>Động vật thuần hóa</item>
+    </string-array>
+
+    <string-array name="type_of_animals_values">
+        <item>Dong_vat_hoang_da</item>
+        <item>Dong_vat_thuan_hoa</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Trắng</item>
+        <item>Đen</item>
+        <item>Xanh lá</item>
+        <item>Đỏ</item>
+        <item>Xanh dương</item>
+        <item>Vàng</item>
+    </string-array>
+
+    <string-array name="fonts">
+        <item>UVNBanhMi</item>
+        <item>UVNSachVo_R</item>
+        <item>windsorb</item>
+    </string-array>
+
+    <string-array name="fonts_values">
+        <item>UVNBanhMi.TTF</item>
+        <item>UVNSachVo_R.TTF</item>
+        <item>windsorb.ttf</item>
+    </string-array>
+
+</resources>

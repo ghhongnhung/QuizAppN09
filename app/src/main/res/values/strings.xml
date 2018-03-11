@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QuizApp-Nhóm 09</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="question_text">Câu hỏi thứ %1$d trên %2$d</string>
+
+    <string name="number_of_guesses_title">Số lượng tùy chọn để đoán</string>
+    <string name="number_of_guesses_description">Hiển thị 2, 4 hoặc 6 tùy chọn</string>
+
+    <string name="animal_types_title">Loại động vật</string>
+    <string name="animal_types_description">Chọn loại động vật bạn muốn thêm vào bài trắc nghiệm</string>
+
+    <string name="choose_background_color">Màu nền</string>
+    <string name="choose_color_description">Chọn một màu làm nền cho ứng dụng</string>
+    <string name="default_color_black">Đen</string>
+
+    <string name="choose_font">Font</string>
+    <string name="choose_font_description">Chọn một font chữ hiển thị</string>
+    <string name="default_font">windsorb.ttf</string>
+    <string name="title_activity_settings">Cài đặt</string>
+
+    <string name="results_string_value">%1$d lần đoán, %2$.02f%% trả lời đúng!</string>
+
+
+    <string name="reset_animal_quiz">Chạy lại bài quiz</string>
+
+
+    <string name="wrong_answer_message">Bạn trả lời chưa chính xác rồi!</string>
+
+    <string name="default_animal_type">Dong_vat_hoang_da</string>
+
+    <string name="toast_message">Chỉ một loại động vật được chọn.</string>
+
+    <string name="change_message">Đã áp dụng thay đổi.</string>
+</resources>
